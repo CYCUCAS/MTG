@@ -13,7 +13,7 @@
 
 </div>
 
-<span style="color:#8000FF">**✻MTG**</span> is the PyTorch implementation of "**With Great Power Comes Great Adaptation: Message Tuning Outshines Prompt Tuning for Graph Foundation Models**", built upon the graph prompting library [<span style="color:black">**🌟ProG🌟**</span>](https://github.com/sheldonresearch/ProG).
+<span style="color:#8000FF">**✻MTG**</span> is the PyTorch implementation of "**Message Tuning Outshines Graph Prompt Tuning: A Prismatic Space Perspective**", built upon the graph prompting library [<span style="color:black">**🌟ProG🌟**</span>](https://github.com/sheldonresearch/ProG).
 
 ## Datasets
 | Dataset    | Task  | # Graphs | # Nodes  | # Edges   | # Features | # Classes | Graph Type      |
