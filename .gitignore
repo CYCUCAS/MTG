@@ -1,0 +1,16 @@
+# 数据集与实验产物体积过大，且可运行时重新生成；请按 README 准备本地 data/ 与 Experiment/
+/data/
+/Experiment/
+
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+.ipynb_checkpoints/
+.DS_Store
+*.pt
+*.pth
+*.pkl
+.env
+.venv/
+venv/
